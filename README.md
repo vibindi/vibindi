@@ -5,3 +5,4 @@ I'm a sophomore studying Computer Science and Data Science at Purdue University.
 Here's some places where you can get to know more about me:
 - [Personal Website](https://vibindi.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/vishnubindiganavile/)
+- [Analysis Site](https://vibindi.github.io/analysis-site/index.html)
