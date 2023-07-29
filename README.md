@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hi, I'm Vishnu!
+### 👋 Hi there, I'm Vishnu!
 
 🎓 I'm a junior at Purdue University studying Computer Science and Data Science.
 
