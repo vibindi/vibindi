@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Vishnu!
 
-🎓 I'm a junior at Purdue University studying Computer Science and Data Science.
+🎓 I'm a junior at Purdue University studying Computer Science (Machine Intelligence Track) and Data Science.
 
 🧑🏾‍💻 I'm looking for opportunities to learn about and contribute in the fields of:
 Software Development, Web Development, Data Analysis/Engineering, and DS/ML exploration
