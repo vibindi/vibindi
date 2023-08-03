@@ -8,4 +8,4 @@ Software Development, Web Development, Data Analysis/Engineering, and DS/ML expl
 Here's some places where you can get to know more about me:
 - [Personal Website](https://vibindi.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/vishnubindiganavile/)
-- [Analysis Site](https://vibindi.github.io/analysis-site/index.html)
+- [Analysis Site](https://vibindi.github.io/blog.html)
