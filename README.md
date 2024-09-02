@@ -1,11 +1,9 @@
 # 👋 Hi There, I'm Vishnu!
 
-🎓 I'm a junior at Purdue University studying Computer Science (Machine Intelligence Track) and Data Science.
+🎓 I'm a senior year undergraduate student at Purdue University studying Computer Science (Machine Intelligence Track) and Data Science.
 
-🧑🏾‍💻 I'm looking for opportunities to learn about and contribute in the fields of:
-Software Development, Web Development, Data Analysis/Engineering, and DS/ML exploration
+🧑🏾‍💻 I'm interested in exploring all of the trends and stories that data can depict!
 
-Here's some places where you can get to know more about me:
-- [Personal Website](https://vibindi.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/vishnubindiganavile/)
-- [Analysis Site](https://vibindi.github.io/blog.html)
+💼 I'm looking for any data science, data engineering, and data analyst roles.
+
+🎧 To view the work I have done, please visit my [data science portfolio](https://github.com/vibindi/data-science-portfolio)!
