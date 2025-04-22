@@ -1,7 +1,5 @@
-# 👋 Hi There, I'm Vishnu!
+# 👋 Hi, I'm Vishnu!
 
-🎓 I'm a senior year undergraduate student at Purdue University studying Computer Science (Machine Intelligence Track) and Data Science.
+🎓 I'm a master's student at Georgia Tech in the OMSA (Computational Data Analytics Track) program. I received my B.S. in Computer Science (Machine Intelligence Track) and Data Science from Purdue University.
 
 🧑🏾‍💻 I'm interested in exploring all of the trends and stories that data can depict!
-
-💼 I'm looking for any data science, data engineering, and data analyst roles.
